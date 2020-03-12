@@ -7,5 +7,5 @@ sample_code_ex2.R contains code for analyzing data used in example 2, including 
 
 ex2_clean.txt contains a subset of data from a study of college student drinking, as used in example 2. Permission was obtained from the University of Washington Human Subjects Division to post these de-identified data online.
 
-p_by_x1x2.png is an image file containing Figure XX, generated from sample_code_ex1.R.
-alcons_by_purggen.png is an image file containing Figure XX, generated from sample_code_ex2.R.
+p_by_x1x2.png is an image file containing Figure 3, generated from sample_code_ex1.R.
+alcons_by_purggen.png is an image file containing Figure 4, generated from sample_code_ex2.R.
