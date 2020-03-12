@@ -18,7 +18,7 @@ library('psych')      # for describe
 library('pscl')       # for zeroinfl
 options(max.print=2000, scipen=7, tibble.print_min=70)
 
-dat <- read.table("ex2_clean.txt", header = T)
+dat <- read.table("https://raw.githubusercontent.com/mhalvo/glm_main_effects/master/ex2_clean.txt", header = T)
 dat$gen <- dat$gen - 1
 dat$purg_new <- dat$purg - 1
 
