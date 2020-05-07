@@ -19,7 +19,7 @@ options(max.print=2000, scipen=7, tibble.print_min=70)
 
 setwd('C:/Users/Max Halvorson/Dropbox/GLM Main Effects Paper')
 
-dat = read.table("C:/Users/Max Halvorson/Dropbox/GLM Main Effects Paper/ABMRF Data/ABMRF_Clean.txt", header = T)
+dat <- read.table("https://raw.githubusercontent.com/mhalvo/glm_interpret/master/ex_clean.txt", header = T)
 dat$gen <- dat$gen - 1
 dat$purg_new <- dat$purg - 1
 
