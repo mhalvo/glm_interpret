@@ -1,5 +1,5 @@
 #########################################
-# sample_code_abmrf.R                   #
+# sample_code_emp_ex.R                  #
 #    Code used to generate figures      #
 #     and table estimates for empirical #
 #     paper example                     #
