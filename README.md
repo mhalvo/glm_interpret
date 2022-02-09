@@ -7,5 +7,7 @@ sample_code_emp_ex.R contains code for analyzing data used in the empirical exam
        
 ex_clean.txt contains a subset of data from a study of college student drinking, as used in example 2. Permission was obtained from the local Human Subjects Division to post these de-identified data online.
 
+ex_clean_QF.txt contains a the same data as above, with quantity/frequency of drinking added.
+
 p_by_x1x2.png is an image file containing Figure 2, generated from sample_code_generic.R.
 alcons_by_gender.png is an image file containing Figure 3, generated from sample_code_emp_ex.R.
